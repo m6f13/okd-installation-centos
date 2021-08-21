@@ -3,7 +3,7 @@
 #We are going to create an OKD cluster with one master and 3 worker nodes.
 
 #OKD Version
-export OKD_VERSION=3.11
+export OKD_VERSION=4.7
 
 #OKD Master Node Configuration
 export OKD_MASTER_IP=192.168.1.200
